@@ -32,7 +32,7 @@ const Stack = function() {
   };
 }
 
-// Palindrome implementation with above stack implemenation
+// Example: Palindrome implementation with above stack implemenation
 
 let array = new Stack();
 const palindrome = 'racecar';
@@ -47,3 +47,5 @@ for (let i=0; i < palindrome.length; i++) {
 }
 
 reversedPalindrom === palindrome ? console.log(`${palindrome} is a palindrome`) : console.log(`${palindrome} is not a palindrome`);
+
+

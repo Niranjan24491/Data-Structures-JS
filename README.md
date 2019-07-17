@@ -1,4 +1,4 @@
-The code snippets give an idea of the implementation of different types of data structures and algorithms commonlu used in our daily problem solving implementations. 
+The code snippets give an idea of the implementation of different types of data structures and algorithms commonly used in our daily problem solving implementations. 
 
 The contents include:
 
