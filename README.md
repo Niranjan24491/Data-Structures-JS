@@ -2,5 +2,5 @@ The code snippets give an idea of the implementation of different types of data 
 
 The contents include:
 
-  1.  Stacks
+  1. Stacks
   2. Sets
