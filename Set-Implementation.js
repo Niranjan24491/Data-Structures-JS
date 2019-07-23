@@ -1,5 +1,5 @@
 // Set implemenation function. Sets are similar to array but they cant have repeated values.ß
-function Set() {
+function SetImplementation() {
   let setArray = [];
 
   // Implementaion to check if elements have duplicates
@@ -95,8 +95,8 @@ function Set() {
   }
 }
 
-let setA = new Set();
-let setB = new Set();
+let setA = new SetImplementation();
+let setB = new SetImplementation();
 setA.add('a');
 setB.add('b');
 setB.add('c');
